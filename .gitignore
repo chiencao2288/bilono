@@ -6,9 +6,9 @@
 /source/public/storage
 /source/storage/*.key
 /source/vendor
-/source/.env
-/source/.env.backup
-/source/.env.production
+/**/.env
+/**/.env.backup
+/**/.env.production
 /source/.phpunit.result.cache
 /source/Homestead.json
 /source/Homestead.yaml
