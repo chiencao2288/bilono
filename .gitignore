@@ -1,5 +1,6 @@
 /data
 /source/.phpunit.cache
+/source/html
 /source/node_modules
 /source/public/build
 /source/public/hot
@@ -18,3 +19,4 @@
 /source/.fleet
 /source/.idea
 /.vscode
+/**/.DS_Store
